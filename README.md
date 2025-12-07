@@ -67,7 +67,7 @@ class About extends Me {
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **Web Development, JavaScript, and new technologies**. <br>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me if you need any **help with MERN stack or coding projects**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me if you need any **help with React  or coding projects**. <br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[Mahmoud Elnakhlawy](https://www.linkedin.com/in/mahmoud-elnakhlawy-397b381b3/)** <br>
 
