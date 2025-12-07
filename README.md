@@ -1,6 +1,6 @@
 <div align="center" width="50">
 <h1>Hi👋, I'm Mahmoud A El-nakhlawy <p>Software Engineer - Frontend🖥️⚛️</p></h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://chatgpt.com/s/m_693590266b648191b40cff2010f746fc" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
@@ -15,7 +15,7 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=elnakhlawi&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://img.shields.io/badge/Hits-🔥-orange?style=flat&logo=fire)
+[![Hits 🔥👁️](https://visitor-badge.laobi.icu/badge?page_id=elnakhlawi.elnakhlawi&left_text=HITS&right_text=Visitors&left_color=555555&right_color=F79C3D)](https://github.com/elnakhlawi/elnakhlawi)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201093120096) <br>
 </div>
 
