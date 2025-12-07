@@ -1,6 +1,6 @@
 <div align="center" width="50">
 <h1>Hi👋, I'm Mahmoud A El-nakhlawy <p>Software Engineer - Frontend🖥️⚛️</p></h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://chatgpt.com/s/m_693590266b648191b40cff2010f746fc" width="60%"/> <br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
