@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Blender](https://img.shields.io/badge/Blender-EA7600?style=flat&logo=Blender&logoColor=236192)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
